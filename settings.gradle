@@ -1,0 +1,6 @@
+rootProject.name = '_07_KHEANG_NGICHSEANG_OPENFEIGN_WITH_MULTIMOUDLE_PRACTICE'
+include 'customer-service'
+include 'product-service'
+include 'order-service'
+include 'common'
+
